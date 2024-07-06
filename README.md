@@ -20,6 +20,12 @@ The dataset includes research papers covering a wide range of topics and discipl
 - Streamlit
 - Transformers library from Hugging Face
 
+### VIDEO DEMO
+
+https://github.com/rohan12345a/ResearchPaperSummarization/assets/109196424/3ccd9335-1413-4263-99c6-6d5e1c979d6f
+
+
+
 ### Installation
 1. Clone the repository:
    ```sh
